@@ -27,7 +27,7 @@ Apresentar minhas competências técnicas e experiências através de um portfó
 
 ## 📬 Contato
 
-Você pode me encontrar no [LinkedIn](#https://www.linkedin.com/in/vladimirflima/) ou enviar um e-mail para [vladimirflima@outlook.com](mailto:vladimirflima@outlook.com).
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/vladimirflima/) ou enviar um e-mail para [vladimirflima@outlook.com](mailto:vladimirflima@outlook.com).
 
 ---
 
